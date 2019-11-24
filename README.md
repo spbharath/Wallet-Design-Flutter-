@@ -15,4 +15,14 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Design Inspiration
+
+  Checkout the design in the link below.This Flutter application is a mimic of the design from Dribbble
+  https://dribbble.com/shots/8416044-Travel-Wallet/attachments/728663?mode=media
+  
+  
+## Screenshots
+
+  dfgadsfdsfgdf
+
 
